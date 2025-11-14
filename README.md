@@ -18,7 +18,7 @@ Dataset is taken from kaggle. https://www.kaggle.com/competitions/house-prices-a
 
 
 ## Figure 5. Predicted vs. actual SalePrice (USD) for CatBoost; dashed line is y = x.
-![alt text](fig5_pred_vs_actual 6x6.png)
+![alt text](fig5_pred_vs_actual.png)
 
 
 ## Figure 6. Top-20 features by CatBoost importance.
